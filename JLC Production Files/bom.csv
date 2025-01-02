@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"H1, H2",MountingHole_3.5mm_Pad,2,MountingHole_Pad,
+H3,DA-15 Cutout,1,DA-15 Mac Video Cutout,
+H4,DE-15 Cutout,1,DE-15 VGA Cutout,
+J1,PinHeader_2x05_P2.54mm_Vertical,1,2x5 Bolle,
+J2,CUI_CRJ063-L1-TH,1,CRJ063-L1-TH,
+J3,IDC-Header_2x04_P2.54mm_Vertical,1,2x4 SEthernet (Shrouded),
+"R1, R2",R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,2,180,
